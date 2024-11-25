@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2><%= "Hello chandu!" %></h2>
+<h2><%= "Hello lucky!" %></h2>
 </body>
 </html>
